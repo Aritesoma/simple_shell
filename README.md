@@ -1,1 +1,2 @@
-SIMPLE_SHELL by Sesugh Nanakaan and Aritesoma Ejuliuwa.
+SIMPLE_SHELL: 
+An ALX-Africa team project to create a simple UNIX command interpreter. 
